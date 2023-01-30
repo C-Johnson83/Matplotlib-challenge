@@ -1,4 +1,4 @@
-# pandas-challenge2
+# Matplotlib Challenge
 Module 5 homework
 
 What good is data without a good plot to tell the story?
